@@ -1,0 +1,11 @@
+/Users/kevinbyrom/Code/src/github.com/KevinByrom/HelloWorldCSharp/bin/Debug/netcoreapp1.1/HelloWorldCSharp.deps.json
+/Users/kevinbyrom/Code/src/github.com/KevinByrom/HelloWorldCSharp/bin/Debug/netcoreapp1.1/HelloWorldCSharp.dll
+/Users/kevinbyrom/Code/src/github.com/KevinByrom/HelloWorldCSharp/obj/Debug/netcoreapp1.1/HelloWorldCSharp.AssemblyInfo.cs
+/Users/kevinbyrom/Code/src/github.com/KevinByrom/HelloWorldCSharp/obj/Debug/netcoreapp1.1/HelloWorldCSharp.dll
+/Users/kevinbyrom/Code/src/github.com/KevinByrom/HelloWorldCSharp/obj/Debug/netcoreapp1.1/HelloWorldCSharp.pdb
+/Users/kevinbyrom/Code/src/github.com/KevinByrom/HelloWorldCSharp/bin/Debug/netcoreapp1.1/HelloWorldCSharp.pdb
+/Users/kevinbyrom/Code/src/github.com/KevinByrom/HelloWorldCSharp/obj/Debug/netcoreapp1.1/HelloWorldCSharp.csprojResolveAssemblyReference.cache
+/Users/kevinbyrom/Code/src/github.com/KevinByrom/HelloWorldCSharp/bin/Debug/netcoreapp1.1/HelloWorldCSharp.runtimeconfig.json
+/Users/kevinbyrom/Code/src/github.com/KevinByrom/HelloWorldCSharp/bin/Debug/netcoreapp1.1/HelloWorldCSharp.runtimeconfig.dev.json
+/Users/kevinbyrom/Code/src/github.com/KevinByrom/HelloWorldCSharp/bin/Debug/netcoreapp1.1/SampleLibrary.dll
+/Users/kevinbyrom/Code/src/github.com/KevinByrom/HelloWorldCSharp/bin/Debug/netcoreapp1.1/SampleLibrary.pdb
